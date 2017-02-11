@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Garden of Eden</string>
+    <string-array name="states_array">
+        <item>Arizona</item>
+        <item>Minnesota</item>
+    </string-array>
+    <string-array name="growth_array">
+        <item>Spring</item>
+        <item>Spring and Summer</item>
+        <item>Spring and Fall</item>
+        <item>Summer</item>
+        <item>Summer and Fall</item>
+        <item>Spring, Summer, Fall</item>
+        <item>Fall, Winter and Spring</item>
+        <item>Year Round</item>
+    </string-array>
+    <string-array name="toxicity_array">
+        <item>All</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="human_consumption_array">
+        <item>All</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>
