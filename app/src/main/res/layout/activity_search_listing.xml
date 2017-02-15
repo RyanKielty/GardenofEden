@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.theironyard.gardenofeden.SearchListing">
+    tools:context="com.theironyard.gardenofeden.SearchResults">
 
     <LinearLayout
         android:orientation="vertical"
@@ -17,6 +17,7 @@
 
         <ListView
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            android:id="@+id/searchResultsListView" />
     </LinearLayout>
 </RelativeLayout>

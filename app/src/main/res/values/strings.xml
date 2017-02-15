@@ -1,10 +1,11 @@
 <resources>
     <string name="app_name">Garden of Eden</string>
     <string-array name="states_array">
-        <item>Arizona</item>
+        <!--<item>Arizona</item>-->
         <item>Minnesota</item>
     </string-array>
     <string-array name="growth_array">
+        <item>All</item>
         <item>Spring</item>
         <item>Spring and Summer</item>
         <item>Spring and Fall</item>
